@@ -31,7 +31,6 @@ location for pick up and drop drag and drop.
 strugled little bit during integration.
 Getting realtime data and working on it.
 
-
 ## Links :
 # <h3>Deployment Link : http://cricinfo-clone.vercel.app/ </h3>
 # <h3>Github Link : https://github.com/dipakdushing/cricinfo_clone.git </h3>
